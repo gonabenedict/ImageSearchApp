@@ -86,13 +86,13 @@ form{
 
 #show-more-button {
     display: block;
-    margin: 0 auto;
+    margin: 30px auto;
     padding: 10px 20px;
     font-size: 18px;
     border: none;
     border-radius: 5px;
-    background-color: #138065;
+    background-color: #008cba;
     color: white;
     cursor: pointer;
-    box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+    text-align: center;
 }
